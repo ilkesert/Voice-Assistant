@@ -1,0 +1,5 @@
+Merhaba ben İlke Sert 10. sınıf öğrencisiyim ve kodlama, bilimsel projelerle ilgileniyorum. Bu projeyi hep istediğim J.A.R.V.İ.S den esinlenerek yaptım. Yaklaşık 4 ay sürdü bunu yapmam ve python kodlamasını yaklaşık 5 aydır biliyorum. Bu program sizin türkçe konuşmasını algılar. Projenin içerisinde importlanmış olan dosyaları indirdikten sonra alt taraftaki kütüphaneden kelimeleri öğrenebilirsiniz. Benim kendi kullandığım aslında daha kapsamlı mesela ders programımı entegre ettim "Dersimi Aç" deyince olduğumuz güne ve zamana bağlı olarak otomatik açıyor veya kendi programlarımı açıyor. Eğer sizin de istediğiniz tarz şeyler varsa bana altta vereceğim adreslerden mesaj veya mail atmanız yeterli. Bu projemdeki tek eksik ingilize konuşması onu da V2 de yapay zeka eklediğim zaman çözmeyi düşünüyorum. İyi eğlenceler kullanan herkese.
+Python 3.9 ile yaptım ve kullandım bilginize
+
+Instagram adresim: sertilke
+Mail adresim: ilke942005@gmail.com
